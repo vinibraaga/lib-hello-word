@@ -1,7 +1,7 @@
-package main
+package libhelloworld
 
 import "fmt"
 
-func main() {
-	fmt.Println("Hello, World!")
+func HelloWorld() {
+    fmt.Println("Hello, World!")
 }
